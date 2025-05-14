@@ -1,6 +1,10 @@
 # data-science-ecosystem
 Jupyter notebook summary of Data Science Tools and Ecosystem.
 
+![Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+
 # Data Science Ecosystem
 
 This repository contains a Jupyter Notebook that summarizes essential tools and components of the Data Science ecosystem.
